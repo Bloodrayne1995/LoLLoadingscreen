@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+XMLAccess
+</name>
+</assembly>
+<members>
+<member name="T:XMLAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:XMLAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:XMLAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:XMLAccess.XMLChampionWithSkins2XML">
+ <summary>
+ Generate a XML-File which stores championID, link to loading screen image (data dragon), link to youtube login screen
+ (for development it will be a path to a local video file) and a attribute which indicates wheter shall be used (data dragon or youtube)
+ For every Champion all skins will be added as childnodes with the same information 
+ </summary>
+</member>
+<member name="M:XMLAccess.XMLChampionWithSkins2XML.getDataDragonLink(System.String,System.String)">
+ <summary>
+ Get the right DataDragon-Link for the loading screen
+ </summary>
+ <param name="champion">Champion-Name</param>
+ <param name="skinID">skinID</param>
+ <returns></returns>
+</member>
+</members>
+</doc>

@@ -3,10 +3,30 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:tb="http://www.hardcodet.net/taskbar"
         xmlns:local="clr-namespace:LoLLoadingscreen"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="LoL Loadingscreen by EONA Bloodrayne" Height="180.986" Width="427.817" ResizeMode="NoResize" Icon="pack://siteoforigin:,,,/Resources/test.ico">
+    
     <Grid>
-        
+        <tb:TaskbarIcon x:Name="NotifyIcon" Visibility="Visible"  />
+        <Label x:Name="label" Content="SummonerName:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Server:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Options:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <StackPanel HorizontalAlignment="Left" Height="33" Margin="117,72,0,0" VerticalAlignment="Top" Width="293">
+            <CheckBox x:Name="checkBox1" IsChecked="{Binding Path=useAnimatedLoadingscreens}" Content="Use animated loading screens" ToolTip="If activated the loading screen will use animated videos for the champions. "/>
+            <CheckBox x:Name="checkBox" IsChecked="{Binding Path=useDefaultIfSkinHasNoVideo}" Content="Use video of default skin if skin hasn`t got a video"/>
+        </StackPanel>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="117,13,0,0" TextWrapping="Wrap" Text="{Binding Path=SummonerName}" VerticalAlignment="Top" Width="162"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="175,114,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnHide" Content="Hide" HorizontalAlignment="Left" Margin="255,114,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="335,114,0,0" VerticalAlignment="Top" Width="75"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="117,45,0,0" VerticalAlignment="Top" Width="162" SelectedIndex="{Binding Path=Region}">
+            <ListBoxItem Content="EUW"/>
+            <ListBoxItem Content="EUNE"/>
+            <ListBoxItem Content="NA"/>
+        </ComboBox>
+
     </Grid>
+    
 </Window>

@@ -1,0 +1,2705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<champions>
+ <champion id="412">
+  <skin id="412000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="412001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="412002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="412003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="412004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="266">
+  <skin id="266000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="266001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="266002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="266003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="23">
+  <skin id="23000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="23008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="79">
+  <skin id="79000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="79009" num="9" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_9.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="69">
+  <skin id="69000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="69001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="69002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="69003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="69004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="136">
+  <skin id="136000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/AurelionSol_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="136001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/AurelionSol_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="13">
+  <skin id="13000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13009" num="9" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_9.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="13010" num="10" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_10.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="78">
+  <skin id="78000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="78001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="78002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="78003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="78004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="78005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="78006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="14">
+  <skin id="14000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="14001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="14002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="14003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="14004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="14005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="202">
+  <skin id="202000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jhin_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="202001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jhin_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="1">
+  <skin id="1000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1009" num="9" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_9.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="1010" num="10" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_10.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="111">
+  <skin id="111000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nautilus_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="111001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nautilus_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="111002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nautilus_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="111003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nautilus_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="111004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nautilus_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="43">
+  <skin id="43000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="43001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="43002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="43003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="43004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="43005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="99">
+  <skin id="99000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="99001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="99002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="99003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="99004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="99005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="99006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="103">
+  <skin id="103000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="103001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="103002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="103003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="103004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="103005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="103006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="2">
+  <skin id="2000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="2001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="2002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="2003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="2004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="2005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="112">
+  <skin id="112000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="112001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="112002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="112003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="27">
+  <skin id="27000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="27001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="27002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="27003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="27004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="27005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="27006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="27007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="86">
+  <skin id="86000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="86001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="86002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="86003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="86004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="86005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="86006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="86010" num="10" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_10.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="34">
+  <skin id="34000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="34001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="34002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="34003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="34004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="34005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="34006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="57">
+  <skin id="57000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="57001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="57002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="57003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="57004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="57005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="57006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="127">
+  <skin id="127000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="127001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="127002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="127003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="25">
+  <skin id="25000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="25001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="25002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="25003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="25004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="25005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="25006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="25010" num="10" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_10.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="105">
+  <skin id="105000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="105001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="105002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="105003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="105004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="105008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="28">
+  <skin id="28000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="28001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="28002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="28003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="28004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="238">
+  <skin id="238000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="238001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="238002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="238003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="74">
+  <skin id="74000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="74001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="74002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="74003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="74004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="74005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="68">
+  <skin id="68000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rumble_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="68001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rumble_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="68002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rumble_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="68003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rumble_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="37">
+  <skin id="37000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="37001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="37002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="37003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="37004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="37005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="37006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="37007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="82">
+  <skin id="82000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="82001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="82002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="82003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="82004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="82005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="96">
+  <skin id="96000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="96008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="55">
+  <skin id="55000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="55008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="117">
+  <skin id="117000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="117001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="117002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="117003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="117004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="117005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="22">
+  <skin id="22000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="22001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="22002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="22003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="22004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="22005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="22006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="22007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="30">
+  <skin id="30000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="30001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="30002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="30003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="30004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="30005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="12">
+  <skin id="12000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="12009" num="9" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_9.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="122">
+  <skin id="122000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="122001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="122002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="122003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="122004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="122008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="67">
+  <skin id="67000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="67001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="67002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="67003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="67004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="67005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="67006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="110">
+  <skin id="110000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="110001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="110002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="110003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="110004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="110005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="77">
+  <skin id="77000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Udyr_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="77001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Udyr_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="77002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Udyr_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="77003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Udyr_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="77004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Udyr_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="89">
+  <skin id="89000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="89001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="89002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="89003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="89004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="89008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="126">
+  <skin id="126000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="126001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="126002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="126003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="134">
+  <skin id="134000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Syndra_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="134001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Syndra_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="134002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Syndra_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="134003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Syndra_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="134004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Syndra_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="80">
+  <skin id="80000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="80001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="80002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="80003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="80004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="80005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="80006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="80007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="92">
+  <skin id="92000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="92001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="92002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="92003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="92004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="92005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="92006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="121">
+  <skin id="121000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Khazix_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="121001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Khazix_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="121002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Khazix_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="121003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Khazix_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="42">
+  <skin id="42000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="42001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="42002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="42003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="42004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="42005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="42006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="42007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="51">
+  <skin id="51000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="51001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="51002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="51003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="51004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="51005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="51006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="51010" num="10" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_10.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="268">
+  <skin id="268000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="268001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="268002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="76">
+  <skin id="76000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="76008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="85">
+  <skin id="85000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="85001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="85002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="85003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="85004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="85005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="85006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="3">
+  <skin id="3000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="3001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="3002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="3003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="3004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="3005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="45">
+  <skin id="45000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="45008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="432">
+  <skin id="432000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Bard_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="432001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Bard_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="432005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Bard_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="150">
+  <skin id="150000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="150001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="150002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="150003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="90">
+  <skin id="90000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="90001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="90002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="90003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="90004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="90005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="104">
+  <skin id="104000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="104001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="104002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="104003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="104004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="104005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="104006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="254">
+  <skin id="254000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="254001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="254002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="254003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="254004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="10">
+  <skin id="10000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="10001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="10002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="10003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="10004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="10005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="10006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="10007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="39">
+  <skin id="39000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="39001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="39002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="39003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="39004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="39005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="64">
+  <skin id="64000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="64001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="64002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="64003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="64004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="64005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="64006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="64010" num="10" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_10.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="420">
+  <skin id="420000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Illaoi_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="420001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Illaoi_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="60">
+  <skin id="60000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="60001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="60002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="60003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="60004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="106">
+  <skin id="106000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="106001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="106002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="106003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="106004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="20">
+  <skin id="20000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="20001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="20002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="20003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="20004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="20005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="20006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="20007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="4">
+  <skin id="4000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="4009" num="9" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_9.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="24">
+  <skin id="24000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="24012" num="12" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_12.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="102">
+  <skin id="102000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="102001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="102002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="102003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="102004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="102005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="429">
+  <skin id="429000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kalista_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="429001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kalista_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="429002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kalista_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="36">
+  <skin id="36000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="36008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="223">
+  <skin id="223000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TahmKench_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="223001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TahmKench_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="223002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/TahmKench_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="131">
+  <skin id="131000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Diana_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="131001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Diana_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="131002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Diana_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="131003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Diana_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="63">
+  <skin id="63000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="63001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="63002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="63003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="63004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="63005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="113">
+  <skin id="113000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="113001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="113002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="113003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="113004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="113005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="113006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="8">
+  <skin id="8000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="8001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="8002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="8003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="8004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="8005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="8006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="8007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="154">
+  <skin id="154000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zac_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="154001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zac_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="154002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zac_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="421">
+  <skin id="421000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/RekSai_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="421001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/RekSai_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="421002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/RekSai_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="133">
+  <skin id="133000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Quinn_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="133001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Quinn_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="133002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Quinn_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="133003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Quinn_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="84">
+  <skin id="84000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="84001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="84002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="84003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="84004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="84005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="84006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="84007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="18">
+  <skin id="18000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="18001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="18002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="18003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="18004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="18005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="18006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="18010" num="10" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_10.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="120">
+  <skin id="120000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="120001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="120002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="120003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="120004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="120005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="15">
+  <skin id="15000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="15009" num="9" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_9.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="236">
+  <skin id="236000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="236001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="236002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="236006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="107">
+  <skin id="107000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rengar_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="107001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rengar_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="107002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rengar_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="107003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rengar_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="19">
+  <skin id="19000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="19008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="72">
+  <skin id="72000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="72001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="72002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="72003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="72004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="54">
+  <skin id="54000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="54001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="54002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="54003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="54004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="54005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="54006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="54007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="157">
+  <skin id="157000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="157001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="157002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="157003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="101">
+  <skin id="101000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="101001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="101002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="101003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="101004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="17">
+  <skin id="17000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="17008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="58">
+  <skin id="58000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="58008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="75">
+  <skin id="75000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="75001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="75002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="75003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="75004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="75005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="75006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="119">
+  <skin id="119000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="119001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="119002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="119003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="119004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="119005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="119006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="35">
+  <skin id="35000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="35001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="35002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="35003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="35004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="35005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="35006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="35007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="50">
+  <skin id="50000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Swain_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="50001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Swain_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="50002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Swain_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="50003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Swain_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="115">
+  <skin id="115000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="115001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="115002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="115003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="115004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="115005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="91">
+  <skin id="91000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Talon_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="91001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Talon_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="91002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Talon_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="91003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Talon_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="91004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Talon_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="40">
+  <skin id="40000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="40001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="40002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="40003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="40004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="40005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="40006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="245">
+  <skin id="245000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ekko_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="245001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ekko_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="245002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ekko_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="61">
+  <skin id="61000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="61001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="61002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="61003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="61004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="61005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="61006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="114">
+  <skin id="114000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiora_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="114001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiora_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="114002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiora_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="114003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiora_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="114004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiora_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="9">
+  <skin id="9000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="9008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/FiddleSticks_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="33">
+  <skin id="33000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="33001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="33002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="33003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="33004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="33005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="33006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="33007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="31">
+  <skin id="31000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="31001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="31002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="31003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="31004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="31005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="31006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="7">
+  <skin id="7000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="7001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="7002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="7003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="7004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="7005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="26">
+  <skin id="26000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="26001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="26002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="26003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="26004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="26005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="16">
+  <skin id="16000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="16001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="16002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="16003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="16004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="16005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="16006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="56">
+  <skin id="56000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="56001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="56002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="56003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="56004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="56005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="222">
+  <skin id="222000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="222001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="222002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="222003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="83">
+  <skin id="83000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yorick_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="83001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yorick_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="83002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yorick_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="6">
+  <skin id="6000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Urgot_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="6001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Urgot_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="6002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Urgot_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="6003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Urgot_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="203">
+  <skin id="203000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kindred_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="203001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kindred_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="21">
+  <skin id="21000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="21008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="62">
+  <skin id="62000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="62001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="62002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="62003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="62004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="62005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="53">
+  <skin id="53000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="53011" num="11" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_11.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="98">
+  <skin id="98000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="98001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="98002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="98003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="98004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="98005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="98006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="201">
+  <skin id="201000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Braum_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="201001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Braum_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="201002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Braum_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="201003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Braum_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="5">
+  <skin id="5000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="5001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="5002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="5003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="5004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="5005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="5006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="29">
+  <skin id="29000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="29001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="29002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="29003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="29004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="29005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="29006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="29007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="11">
+  <skin id="11000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="11001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="11002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="11003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="11004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="11005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="11009" num="9" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_9.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="44">
+  <skin id="44000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taric_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="44001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taric_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="44002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taric_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="44003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taric_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="32">
+  <skin id="32000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="32008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="41">
+  <skin id="41000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="41001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="41002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="41003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="41004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="41005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="41006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="41007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="48">
+  <skin id="48000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="48001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="48002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="48003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="48004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="38">
+  <skin id="38000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="38001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="38002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="38003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="38004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="38005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="161">
+  <skin id="161000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Velkoz_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="161001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Velkoz_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="161002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Velkoz_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="161003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Velkoz_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="143">
+  <skin id="143000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zyra_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="143001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zyra_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="143002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zyra_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="143003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zyra_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="267">
+  <skin id="267000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nami_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="267001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nami_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="267002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nami_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="267003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nami_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="59">
+  <skin id="59000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="59001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="59002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="59003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="59004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="59005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="59006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+ <champion id="81">
+  <skin id="81000" num="0" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_0.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81001" num="1" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_1.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81002" num="2" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_2.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81003" num="3" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_3.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81004" num="4" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_4.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81005" num="5" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_5.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81006" num="6" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_6.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81007" num="7" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_7.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+  <skin id="81008" num="8" dataDragon="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_8.jpg" ytLink="" use="dataDragon">
+   <videoOptions x="0" y="0" />
+  </skin>
+ </champion>
+</champions>
