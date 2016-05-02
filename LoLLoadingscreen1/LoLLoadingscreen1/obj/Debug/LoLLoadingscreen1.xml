@@ -6,6 +6,26 @@ LoLLoadingscreen1
 </name>
 </assembly>
 <members>
+<member name="T:LoLLoadingscreen.ChampionLoadingArt">
+<summary>
+ChampionLoadingArt
+</summary>
+</member>
+<member name="M:LoLLoadingscreen.ChampionLoadingArt.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:LoLLoadingscreen.Loading16to9">
+<summary>
+Loading16to9
+</summary>
+</member>
+<member name="M:LoLLoadingscreen.Loading16to9.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:LoLLoadingscreen.Application">
 <summary>
 Application

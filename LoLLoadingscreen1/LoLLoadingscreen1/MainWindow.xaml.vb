@@ -27,4 +27,16 @@
     Private Sub NotifyIcon_TrayMouseDoubleClick(sender As Object, e As RoutedEventArgs) Handles NotifyIcon.TrayMouseDoubleClick
         Me.Visibility = Visibility.Visible
     End Sub
+
+
+    Private boo As Boolean = False
+    Private b As New BackgroundTask
+    Private Sub btnSave_Copy_Click(sender As Object, e As RoutedEventArgs) Handles btnSave_Copy.Click
+        If Not boo Then
+            b.startBT()
+        Else
+            b.stopBT()
+        End If
+        boo = Not boo
+    End Sub
 End Class
