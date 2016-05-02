@@ -1,0 +1,11 @@
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\bin\Debug\ChampionLib.dll
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\bin\Debug\ChampionLib.pdb
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\bin\Debug\ChampionLib.xml
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\bin\Debug\RiotApi.Net.RestClient.dll
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\bin\Debug\RiotApi.Net.RestClient.xml
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\obj\Debug\ChampionLib.vbprojResolveAssemblyReference.cache
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\obj\Debug\ChampionLib.Resources.resources
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\obj\Debug\ChampionLib.vbproj.GenerateResource.Cache
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\obj\Debug\ChampionLib.dll
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\obj\Debug\ChampionLib.xml
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\ChampionLib\obj\Debug\ChampionLib.pdb

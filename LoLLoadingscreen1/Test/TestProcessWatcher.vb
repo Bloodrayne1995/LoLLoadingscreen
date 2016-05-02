@@ -1,6 +1,6 @@
 ﻿Imports ProgramChecker
 
-Public Class Test
+Public Class TestProcessWatcher
 
     Private WithEvents pWatch As New ProcessWatcher
 

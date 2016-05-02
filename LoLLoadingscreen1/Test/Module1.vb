@@ -1,12 +1,10 @@
 ﻿Module Module1
 
     Sub Main()
-        Dim t As New Test
+        Dim t As New TestGameInfo
         t.test()
 
         Console.ReadKey()
-
-        t.stopIt()
     End Sub
 
 

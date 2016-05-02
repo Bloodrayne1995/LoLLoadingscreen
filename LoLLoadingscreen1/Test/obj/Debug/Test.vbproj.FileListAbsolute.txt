@@ -11,3 +11,8 @@ C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\obj\Deb
 C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\ProgramChecker.dll
 C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\ProgramChecker.pdb
 C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\ProgramChecker.xml
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\ChampionLib.dll
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\RiotApi.Net.RestClient.dll
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\ChampionLib.pdb
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\ChampionLib.xml
+C:\Users\Bloodrayne\Source\Repos\LoLLoadingscreen\LoLLoadingscreen1\Test\bin\Debug\RiotApi.Net.RestClient.xml
